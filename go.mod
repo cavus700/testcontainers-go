@@ -1,4 +1,4 @@
-module github.com/testcontainers/testcontainers-go
+module github.com/cavus700/testcontainers-go
 
 go 1.22
 

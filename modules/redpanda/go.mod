@@ -1,4 +1,4 @@
-module github.com/testcontainers/testcontainers-go/modules/redpanda
+module github.com/cavus700/testcontainers-go/modules/redpanda
 
 go 1.22
 
